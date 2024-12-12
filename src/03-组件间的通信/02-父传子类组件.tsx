@@ -1,10 +1,6 @@
 import React from "react";
 
 class Cpn extends React.Component<{ name: string; age: number }, State> {
-  // constructor(props: { name: string; age: number }) {
-  //   super(props);
-  //   console.log("props", props);
-  // }
   render() {
     return (
       <div>
